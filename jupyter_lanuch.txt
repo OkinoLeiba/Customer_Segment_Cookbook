@@ -1,0 +1,5 @@
+    To access the server, open this file in a browser:
+        file:///C:/Users/Owner/AppData/Roaming/jupyter/runtime/jpserver-22048-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=15a88b888fea137415cb453d76516281866eb4b91eb91801
+     or http://127.0.0.1:8888/lab?token=15a88b888fea137415cb453d76516281866eb4b91eb91801
